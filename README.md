@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges", align="center">
-  <a href="https://www.linkedin.com/in/pythonicleo">
+  <a href="https://www.linkedin.com/in/pythonicdragon">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/pythonicleo/">
+  <a href="https://www.instagram.com/pythonicdragon/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="#">
@@ -14,7 +14,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=pythonicleo&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=pythonicdragon&style=flat-square&color=blue" alt=""/>
  </div>
  <br><br>
  <h1 align="center">
