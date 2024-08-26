@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges", align="center">
-  <a href="https://www.linkedin.com/in/pythonicdragon">
+  <a href="https://www.linkedin.com/in/cyedanwaar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/pythonicdragon/">
+  <a href="https://www.instagram.com/cyedanwaar/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="#">
+  <a href="https://www.facebook.com/cyedanwaar/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
@@ -35,7 +35,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on leetcode and codeforces and read tech articles.
 
-- :mailbox: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-PythonicDragon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cyedanwaar)
+- :mailbox: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-SyedAnwaar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cyedanwaar)
 
 
 ### :hammer_and_wrench: Languages and Tools :
